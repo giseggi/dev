@@ -9,8 +9,10 @@
 	Hello world!  
 </h1>
 
-${msg }
+${msg } <br>
 
-<a href="moveRegUser">Join Us</a>
+<a href="moveRegUser">Join Us</a><br>
+
+<a href="moveLogin">Login</a>
 </body>
 </html>
